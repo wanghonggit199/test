@@ -1,0 +1,18 @@
+{
+  "login_success1": {
+    "username": "13232132131",
+    "password": "123456",
+    "code": "8888",
+    "expect": "账号不存在!",
+    "success": false
+  },
+  "login_success2": {
+    "username": "13232132132",
+    "password": "123456",
+    "code": "8888",
+    "expect": "我的账户",
+    "success": true
+  }
+
+}
+

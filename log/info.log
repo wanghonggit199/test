@@ -1,0 +1,4 @@
+2020-04-07 10:29:40,845 INFO [root] [base_page.py(click_element:73)] - 正在点击元素对象 <selenium.webdriver.remote.webelement.WebElement (session="24682e15134dd22f0d0322370d8d0af3", element="8bfbc3e6-fbd5-48cc-b29c-57db111a3541")>
+2020-04-07 10:29:40,881 INFO [root] [base_page.py(find_element_func:32)] - 正在查找元素 ('link text', '确认支付方式')
+2020-04-07 10:29:40,911 INFO [root] [base_page.py(click_element:73)] - 正在点击元素对象 <selenium.webdriver.remote.webelement.WebElement (session="24682e15134dd22f0d0322370d8d0af3", element="2ea6c0b0-d9a5-4353-9d27-61def6e0e4d5")>
+2020-04-07 10:29:43,287 INFO [root] [test003_oeder.py(test2_pay:58)] - <selenium.webdriver.remote.webelement.WebElement (session="24682e15134dd22f0d0322370d8d0af3", element="f4c9627a-3b83-4ea2-a9c9-331048009edf")>

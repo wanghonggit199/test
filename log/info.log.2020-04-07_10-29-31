@@ -1,0 +1,7 @@
+2020-04-07 10:29:31,565 INFO [root] [base_page.py(find_element_func:32)] - 正在查找元素 ('link text', '我的订单')
+2020-04-07 10:29:31,586 INFO [root] [base_page.py(click_element:73)] - 正在点击元素对象 <selenium.webdriver.remote.webelement.WebElement (session="24682e15134dd22f0d0322370d8d0af3", element="c4dc2992-2e51-489a-9ab8-42eb86dd23f7")>
+2020-04-07 10:29:31,675 INFO [root] [base_page.py(find_element_func:32)] - 正在查找元素 ('link text', '待付款')
+2020-04-07 10:29:32,968 INFO [root] [base_page.py(click_element:73)] - 正在点击元素对象 <selenium.webdriver.remote.webelement.WebElement (session="24682e15134dd22f0d0322370d8d0af3", element="bf375bcb-c139-4761-86ed-def7437c8261")>
+2020-04-07 10:29:35,011 INFO [root] [base_page.py(find_element_func:32)] - 正在查找元素 ('link text', '立即支付')
+2020-04-07 10:29:35,051 INFO [root] [base_page.py(click_element:73)] - 正在点击元素对象 <selenium.webdriver.remote.webelement.WebElement (session="24682e15134dd22f0d0322370d8d0af3", element="5126753f-869f-4804-a908-d0724a4e6a70")>
+2020-04-07 10:29:35,125 INFO [root] [base_page.py(find_element_func:32)] - 正在查找元素 ('css selector', '[value="pay_code=cod"]')

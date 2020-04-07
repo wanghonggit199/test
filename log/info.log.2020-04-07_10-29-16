@@ -1,0 +1,3 @@
+2020-04-07 10:29:16,367 INFO [root] [base_page.py(find_element_func:32)] - 正在查找元素 ('css selector', '.checkCartAll')
+2020-04-07 10:29:16,399 INFO [root] [base_page.py(find_element_func:32)] - 正在查找元素 ('link text', '去结算')
+2020-04-07 10:29:16,435 INFO [root] [base_page.py(click_element:73)] - 正在点击元素对象 <selenium.webdriver.remote.webelement.WebElement (session="24682e15134dd22f0d0322370d8d0af3", element="22239ed5-e4e6-4634-9937-22bbf878d1cc")>

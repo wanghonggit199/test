@@ -1,0 +1,8 @@
+2020-04-07 10:29:11,256 INFO [root] [base_page.py(find_element_func:32)] - 正在查找元素 ('id', 'join_cart')
+2020-04-07 10:29:11,268 INFO [root] [base_page.py(click_element:73)] - 正在点击元素对象 <selenium.webdriver.remote.webelement.WebElement (session="24682e15134dd22f0d0322370d8d0af3", element="2955c0b3-45df-4cb2-bc9b-4cfb2e11b07f")>
+2020-04-07 10:29:13,338 INFO [root] [base_page.py(find_element_func:32)] - 正在查找元素 ('css selector', '.conect-title')
+2020-04-07 10:29:13,361 INFO [root] [test002_cart.py(test_cart:39)] - 添加成功
+继续购物
+去购物车结算
+2020-04-07 10:29:14,922 INFO [root] [base_page.py(find_element_func:32)] - 正在查找元素 ('css selector', '.share-shopcar-index')
+2020-04-07 10:29:14,938 INFO [root] [base_page.py(click_element:73)] - 正在点击元素对象 <selenium.webdriver.remote.webelement.WebElement (session="24682e15134dd22f0d0322370d8d0af3", element="7d459857-9067-44f2-8483-9a270bf87cdf")>
